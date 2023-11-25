@@ -1,4 +1,4 @@
-# # Age Wizard - Age Calculator
+# # Age Calculator
 
 ![image](https://github.com/Alok-2002/Age_Wizard_An_Age_Calculator/assets/93814546/06b72895-69d2-425b-852c-50946b8859e6)
 
@@ -39,11 +39,11 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Acknowledgments
 
-- The Age Wizard logo is created by [Alok Sharma](https://github.com/alok-2002).
+- The Age Wizard logo is created by [Mohan Krishna] (https://github.com/Krish8009).
 
 
 ## Contact
 
-For any inquiries or feedback, please contact [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com).
+For any inquiries or feedback, please contact [gattevonimohan8009@gmail.com](mailto:gattevonimohan8009@gmail.com).
 
 Thank you for using Age Wizard! We hope you find it helpful and enjoyable.
