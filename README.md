@@ -1,6 +1,5 @@
 # # Age Calculator
 
-![image](https://github.com/Alok-2002/Age_Wizard_An_Age_Calculator/assets/93814546/06b72895-69d2-425b-852c-50946b8859e6)
 
 Welcome to Age Wizard, an interactive age calculator that allows you to determine the exact age based on a provided date of birth. Whether you're curious about your own age or need to calculate someone else's, Age Wizard has got you covered!
 
@@ -31,7 +30,7 @@ Feel free to try out different date formats and observe the accurate age calcula
 
 ## Contributions
 
-Contributions to Age Wizard are always welcome! If you find any bugs, issues, or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/Alok-2002/Age_Wizard_An_Age_Calculator/tree/main).
+Contributions to Age Wizard are always welcome! If you find any bugs, issues, or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/Krish8009/age-calculator).
 
 ## License
 
